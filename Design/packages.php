@@ -24,7 +24,7 @@ include './header.php';
                             <p>E-Wedding Album</p>
                             <p>&nbsp;</p>
                             <p>&nbsp;</p>
-                            <p><a href="#" class="btn btn-primary" role="button" style=" background-color: #3c3c3c;">Order now</a></p>
+                            <p><a href="payment.php" class="btn btn-primary" role="button" style=" background-color: #3c3c3c;">Order now</a></p>
                         </div>
                 </div>
             </div>

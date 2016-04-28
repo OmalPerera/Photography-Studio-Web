@@ -17,6 +17,8 @@
         <link  href="js/bootstrap-datepicker.js">
         <link rel="stylesheet" href="css/datepicker.css">
         <link rel="stylesheet" href="css/bootstrap.css">
+
+
     </head>
     <body>
 
@@ -40,14 +42,14 @@
                         ?>
                         <li><a href="payment.php">Payment</a></li>
 
-                        <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Other <span class="caret"></span></a>
+                        <!--li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Other <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="#">Employee Details</a></li>
                                 <li><a href="#">Admin Panel</a></li>
                                 <li><a href="#">Help</a></li>
 
                             </ul>
-                        </li>
+                        </li-->
 
                     </ul>
                     <ul class="nav navbar-nav navbar-right">

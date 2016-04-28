@@ -29,7 +29,7 @@ if(isset($_POST['submit']))
                     
         if ($connection->query($sql) === TRUE)
         {
-            echo "<div class='alert alert-success' role='alert'>...</div>";
+            echo "<div class='alert alert-success' role='alert'>Well done! You have successfully requested</div>";
             //$errors="You have successfully registered";
             //           echo $errors;
             // the message
@@ -137,7 +137,7 @@ if(isset($_POST['submit']))
             <div class="col-md-1"> </div>
 
             <div class="col-md-2">  </div>
-            <div class="col-md-3"> <br><br>  <input class="btn btn-md btn-primary btn-block" type="submit" value="Save Changes" name="submit"/> </div>
+            <div class="col-md-3"> <br><br>  <input class="btn btn-md btn-primary btn-block" style=" background-color: #3c3c3c;" type="submit" value="Save Changes" name="submit"/> </div>
 
         </div>
 
