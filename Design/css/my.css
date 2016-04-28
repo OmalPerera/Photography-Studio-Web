@@ -1,0 +1,150 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 13, 2015, 1:45:13 PM
+    Author     : sanjeewa
+*/
+.packges{
+    padding-top: 10%;
+
+}
+.pay{
+    padding-top: 10%;
+
+}
+.pay1{
+    
+    margin-bottom: 20px;
+    
+}
+
+.pack{
+
+    padding-top: 10%;
+    padding-left: 29%;
+    background-color: #ccffcc;
+    margin-bottom: 20px;
+    height: 280px;
+}
+.pack1{
+
+    padding-top: 10%;
+    padding-left: 29%;
+    background-color: #ffcccc;
+    margin-bottom: 20px;
+    height: 280px;
+}
+.pack2{
+
+    padding-top: 10%;
+    padding-left: 29%;
+    background-color: #ccccff;
+    margin-bottom: 20px;
+    height: 280px;
+}
+.main_header{
+
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: #00ff33;
+
+
+
+}
+.main_footer{
+
+
+    clear: both;
+    height: 75px;
+    margin: 0;
+    padding: 1em;
+    text-align: center;
+    background: #ccff00;
+    color: #ff6666;
+
+}
+
+.form-details  {
+
+    width: 100%;
+    padding-top: 5%;
+    padding-left:10%;
+    padding-right: 20%;
+    margin: auto;
+
+}
+.form-signup  {
+
+    width: 100%;
+    padding-top: 10%;
+    padding-left:30%;
+    /*padding-right: 80%;*/
+    margin: auto;
+
+}
+.flex-item {
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.profile{
+
+    width: 100%;
+    padding-top: 10%;
+    padding-left:14%;
+
+}
+
+.profile-head-pic{
+
+    width: 100%;
+    padding-top: 55%;
+
+    margin: auto;
+    float: right;
+    background-color: #00ff33;
+}
+.profile-head-details{
+
+    width: 100%;
+    padding-top: 55%;
+
+    margin: auto;
+    float: left;
+    background-color: #ff6666;
+}
+.form-login  {
+
+    width: 100%;
+    padding-top: 10%;
+    padding-left:15%;
+    padding-right: 20%;
+    margin: auto;
+
+}
+.form-pay_info  { 
+    /*max-width: 330px;*/ 
+    padding-top: 1%;
+    padding-left: 60%;
+    padding-right: 30%;
+    margin: auto;
+    float: right;
+
+}
+.details{
+
+    padding-top: 10%;
+
+}
+.deta-mar{
+
+    margin: 10px;
+
+}
