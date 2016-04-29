@@ -57,7 +57,7 @@ include './header.php';
                                 </div>
 
                                 <h3>Up Coming Weddings</h3>
-                                <p>keep your weeding day alive... forever</p>
+                                <p>keep your wedding day alive... forever</p>
                             </div>
                         </div>
                     </div>
